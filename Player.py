@@ -74,18 +74,4 @@ class Player:
             else:
                 print(f'space taken by {self.board.board[position[0]][position[1]]}')
                 return False
-        # except:
-        #     print("invalid input, choose a position between 1 and 9")
-        #     return False
 
-
-
-
-
-        # exp=Player(5,True,'Human')
-#
-# exp.what()
-# exp.type='human'
-# exp.set_name()
-# exp.set_symbol()
-# print(exp.symbol)

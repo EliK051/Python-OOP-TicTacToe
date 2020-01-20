@@ -108,16 +108,4 @@ class Board:
             self.is_board_full=False
 
 
-#WHY IT ACTIVATES THIS MODULE WHEN RUNNING PLAYER??????????????????????????
-# ha=Board()
-# ha.init_board()
-# ha.display_board()
-# print(ha.is_position_available(1))
-# ha.init_board()
-# ha.display_board()
-# print(ha.is_position_available(1))
-# ha.set_board(3,'X')
-# ha.display_board()
-# print(ha.check_rows())
-# ha.check_full_board()
-# print(ha.is_board_full)
+
